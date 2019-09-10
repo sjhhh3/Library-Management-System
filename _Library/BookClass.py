@@ -65,10 +65,5 @@ class BookSet:
         return counter
 
 if __name__ == '__main__':
-    # b1 = Book('123','st', 'author', 'pu','lg',BookSubject.Biography, BookFormat.Journal, 124)
-    # bs1 = BookSet(b1, None)
-    # print(bs1.get_book_info())
-    # bs1.create_book_item(4)
-    # bs1.get_book_item_by_id(3).checkout()
-    # bs1.print_inventory_status()
+
     pass
